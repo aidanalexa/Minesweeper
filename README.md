@@ -4,11 +4,12 @@ This program is a basic replica of the classic game Minesweeper.
 # minesweeper_setup.txt
 Text file that read_file function reads in order to set up the
 board size and mine locations.
+
   Note : board size is unchangeable, mine locations are changeable.
+  
 A 1 represents a mine, a 0 represents a safe dig spot.
 
 5 # Num Columns
-
 5 # Num Rows
 
 1, 0, 0, 0, 0
