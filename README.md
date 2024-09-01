@@ -8,6 +8,7 @@ board size and mine locations.
 A 1 represents a mine, a 0 represents a safe dig spot.
 
 5 # Num Columns
+
 5 # Num Rows
 1, 0, 0, 0, 0
 1, 0, 0, 0, 0
