@@ -23,7 +23,7 @@ Example of minesweeper_setup.txt file -
 
 0, 0, 0, 0, 1
 
-1, 0, 0 ,0, 1
+1, 0, 0 ,0, 1 # Incorrect spacing is not an error, read_file function is meant to handle it
 
 # minesweeper.py
 Program to run minesweeper game.
