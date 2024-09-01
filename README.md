@@ -27,6 +27,7 @@ Example of minesweeper_setup.txt file -
 
 # minesweeper.py
 Program to run minesweeper game.
+
 To play :
   run the program
   user will be prompted in terminal
