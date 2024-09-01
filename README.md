@@ -29,7 +29,11 @@ Example of minesweeper_setup.txt file -
 Program to run minesweeper game.
 
 To play :
+
   run the program
+  
   user will be prompted in terminal
+  
   enter desired dig location (Ex. "a1")
+  
   continue until mine is hit
