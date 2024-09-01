@@ -9,6 +9,8 @@ board size and mine locations.
   
 A 1 represents a mine, a 0 represents a safe dig spot.
 
+Example of minesweeper_setup.txt file -
+
 5 # Num Columns
 
 5 # Num Rows
