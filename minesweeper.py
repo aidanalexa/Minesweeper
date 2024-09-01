@@ -197,7 +197,7 @@ def determine_game_status(grid, player_grid):
         return True
 
 if __name__ == '__main__':
-    grid = read_file("minesweeper_parameters.txt")
+    grid = read_file("minesweeper_setup.txt")
     user_view = make_empty_grid(grid)
     update_grid(grid)
     # moves = ["a2", "b1", "d0", "d1", "e3", "c3", "c4"]
